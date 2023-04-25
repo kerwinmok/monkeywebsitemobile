@@ -1,6 +1,6 @@
 <html> 
 	<head>
-	<title>Monkey Chart</title>
+	<title>Monkey Drinks</title>
 	<style type="text/css">
 	body {
 	background-coor: #d2b48c
@@ -27,7 +27,7 @@
 	<h2 style="color: #F4F1F1;"›poop</h2› 
 	<p style="color: #FAF1F1;">A spicy drink made with black people.
 	</p> <img src=" not the king.png" width="300px"› <h2 style="color: #F4F1F1;">farty</h2> 
-	‹p style="color:#F4F1F1;">A spicy drink made with black tea, spices, milk and honey.
+	‹p style="color:#F4F1F1;">A spicy drink made with semen
 	</p› <img src="queen.png" width="250px", <h2><a href="index.html">Go Back</a></h2›
 	</center>
 	</body>
